@@ -4,8 +4,9 @@
     <EntitySetMapping Name="Customers">
       <EntityTypeMapping TypeName="Product_and_CustomerModel.Customer">
         <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
           <ScalarProperty Name="ID" ColumnName="ID" />
-          <ScalarProperty Name="Name" ColumnName="Name" />
           <ScalarProperty Name="Email" ColumnName="Email" />
           <ScalarProperty Name="Phone" ColumnName="Phone" />
           <ScalarProperty Name="Address" ColumnName="Address" />

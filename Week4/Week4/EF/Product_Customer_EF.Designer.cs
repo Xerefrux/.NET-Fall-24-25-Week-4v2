@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'D:\Documents Backup\9th Semester\.NET\Week 4\Week4\Week4\EF\Product_Customer_EF.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Documents Backup\9th Semester\.NET\Week 4 - Copy\Week4\Week4\EF\Product_Customer_EF.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

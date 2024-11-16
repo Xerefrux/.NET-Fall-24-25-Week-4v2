@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\customer\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,48 +11,24 @@
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|d:\\documents backup\\9th semester\\.net\\week 4 - copy\\week4\\week4\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\ef\\product_customer_ef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\product_customer_ef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,8 +39,36 @@
       "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\ef\\product_customer_ef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\product_customer_ef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|d:\\documents backup\\9th semester\\.net\\week 4 - copy\\week4\\week4\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\week4\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F56F4F12-FD42-416F-A1DA-1953D48B6AE4}|Week4\\Week4.csproj|solutionrelative:week4\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "Week4\\DTOs\\ProductDTO.cs",
@@ -91,12 +91,11 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T06:08:03.817Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Product.cs",
               "RelativeDocumentMoniker": "Week4\\EF\\Product.cs",
@@ -105,6 +104,75 @@
               "ViewState": "AgIAABkAAAAAAAAAAAAzwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T17:04:25.034Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Week4\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Week4\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T05:42:21.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\List.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\List.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\List.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Customer\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T12:32:23.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T12:45:19.489Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Details.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T12:53:47.032Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T13:45:49.117Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -115,118 +183,57 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\List.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\List.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\List.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Customer\\List.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T12:32:23.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Create.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T12:45:19.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Customer.cs",
-              "RelativeDocumentMoniker": "Week4\\EF\\Customer.cs",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Customer.cs",
-              "RelativeToolTip": "Week4\\EF\\Customer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:27:16.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CustomerDTO.cs",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\DTOs\\CustomerDTO.cs",
               "RelativeDocumentMoniker": "Week4\\DTOs\\CustomerDTO.cs",
               "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\DTOs\\CustomerDTO.cs",
               "RelativeToolTip": "Week4\\DTOs\\CustomerDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T06:08:49.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\List.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Product\\List.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\List.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Product\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T06:22:05.344Z",
+              "DocumentIndex": 3,
+              "Title": "Product_Customer_EF.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Product_Customer_EF.edmx",
+              "RelativeDocumentMoniker": "Week4\\EF\\Product_Customer_EF.edmx",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Product_Customer_EF.edmx [Diagram1]",
+              "RelativeToolTip": "Week4\\EF\\Product_Customer_EF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-13T05:46:45.581Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Customer.cs",
+              "RelativeDocumentMoniker": "Week4\\EF\\Customer.cs",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Customer.cs",
+              "RelativeToolTip": "Week4\\EF\\Customer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:27:16.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Details.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Details.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Details.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Customer\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T12:53:47.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Delete.cshtml",
               "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Delete.cshtml",
               "RelativeToolTip": "Week4\\Views\\Customer\\Delete.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowB8AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T13:52:43.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Customer\\Edit.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Customer\\Edit.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Customer\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-15T13:45:49.117Z"
+              "WhenOpened": "2024-11-15T13:52:43.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T07:12:12.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Week4\\Views\\Product\\Details.cshtml",
@@ -234,31 +241,8 @@
               "RelativeToolTip": "Week4\\Views\\Product\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T07:03:32.346Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Week4\\Views\\Product\\Delete.cshtml",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Delete.cshtml",
-              "RelativeToolTip": "Week4\\Views\\Product\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T07:22:21.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Week4\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Week4\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAwEgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:42:21.971Z"
+              "WhenOpened": "2024-11-13T07:03:32.346Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -270,30 +254,58 @@
               "RelativeToolTip": "Week4\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T06:38:44.79Z"
+              "WhenOpened": "2024-11-13T06:38:44.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T06:22:05.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Week4\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Week4\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwEgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T05:42:06.82Z"
+              "WhenOpened": "2024-11-13T05:42:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T07:12:12.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Product_Customer_EF.edmx [Diagram1]",
-              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\EF\\Product_Customer_EF.edmx",
-              "RelativeDocumentMoniker": "Week4\\EF\\Product_Customer_EF.edmx",
-              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4\\Week4\\Week4\\EF\\Product_Customer_EF.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\Week 4\\Week4\\Week4\\EF\\Product_Customer_EF.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-13T05:46:45.581Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Week4\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Documents Backup\\9th Semester\\.NET\\Week 4 - Copy\\Week4\\Week4\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Week4\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T07:22:21.657Z"
             }
           ]
         }

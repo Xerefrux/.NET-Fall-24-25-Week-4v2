@@ -20,7 +20,8 @@ namespace Week4.Controllers
             return new Customer
             {
                 ID = c.ID,
-                Name = c.Name,
+                FirstName = c.FirstName,
+                LastName = c.LastName,
                 Email = c.Email,
                 Phone = c.Phone,
                 Address = c.Address,
@@ -33,7 +34,8 @@ namespace Week4.Controllers
             return new CustomerDTO
             {
                 ID = c.ID,
-                Name = c.Name,
+                FirstName = c.FirstName,
+                LastName = c.LastName,
                 Email = c.Email,
                 Phone = c.Phone,
                 Address = c.Address,
@@ -97,7 +99,8 @@ namespace Week4.Controllers
         {
             var data = db.Customers.Find(c.ID);
             db.Entry(data).CurrentValues.SetValues(c);
-            data.Name = c.Name;
+            data.FirstName = c.FirstName;
+            data.LastName = c.LastName;
             data.Email = c.Email;
             data.Phone = c.Phone;
             data.Address = c.Address;

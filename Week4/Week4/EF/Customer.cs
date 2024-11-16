@@ -11,7 +11,7 @@ namespace Week4.EF
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
+    
     public partial class Customer
     {
         public Customer()
@@ -20,15 +20,12 @@ namespace Week4.EF
         }
     
         public int ID { get; set; }
-
-        public string Name { get; set; }
-
         public string Email { get; set; }
-
         public string Phone { get; set; }
-
         public string Address { get; set; }
         public System.DateTime DateJoined { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     
         public virtual ICollection<Product_Customer> Product_Customer { get; set; }
     }

@@ -11,8 +11,12 @@ namespace Week4.DTOs
         public int ID { get; set; }
 
         [Required]
-        [StringLength(110, ErrorMessage = "Customer name cannot exceed 110 characters.")]
-        public string Name { get; set; }
+        [StringLength(50, ErrorMessage = "Customer's First Name cannot exceed 50 characters.")]
+        public string FirstName { get; set; }
+
+        [Required]
+        [StringLength(50, ErrorMessage = "Customer's Last Name cannot exceed 50 characters.")]
+        public string LastName { get; set; }
 
         [Required]
         [RegularExpression(@"^[a-zA-Z0-9.]+@gmail\.com$", ErrorMessage = "Invalid email address format.")]

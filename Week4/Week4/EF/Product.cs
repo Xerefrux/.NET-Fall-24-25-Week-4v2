@@ -11,8 +11,7 @@ namespace Week4.EF
 {
     using System;
     using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-
+    
     public partial class Product
     {
         public Product()
@@ -21,20 +20,10 @@ namespace Week4.EF
         }
     
         public int ID { get; set; }
-
-        
         public string Name { get; set; }
-
-        
         public string Description { get; set; }
-
-        
         public double Price { get; set; }
-
-        
         public int StockQuantity { get; set; }
-
-        
         public string Category { get; set; }
     
         public virtual ICollection<Product_Customer> Product_Customer { get; set; }
