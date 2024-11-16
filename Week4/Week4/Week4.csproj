@@ -129,6 +129,7 @@
     <Compile Include="Controllers\CustomerController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="CustomValidations\ValidJoinDate.cs" />
     <Compile Include="DTOs\CustomerDTO.cs" />
     <Compile Include="DTOs\ProductDTO.cs" />
     <Compile Include="EF\Customer.cs">

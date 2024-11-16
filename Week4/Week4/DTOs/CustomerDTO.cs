@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using Week4.CustomValidations;
 
 namespace Week4.DTOs
 {
@@ -27,6 +28,9 @@ namespace Week4.DTOs
 
         [StringLength(250, ErrorMessage = "Address cannot exceed 250 characters.")]
         public string Address { get; set; }
+
+        [Required]
+        [ValidJoinDate]
         public System.DateTime DateJoined { get; set; }
 
 

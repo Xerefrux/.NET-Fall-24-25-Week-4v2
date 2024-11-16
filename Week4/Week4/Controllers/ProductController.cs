@@ -92,17 +92,22 @@ namespace Week4.Controllers
 
         [HttpPost]
 
-        public ActionResult Edit(Product p)
+        public ActionResult Edit(ProductDTO p)
         {
-            var data = db.Products.Find(p.ID);
-            db.Entry(data).CurrentValues.SetValues(p);
-            data.Name = p.Name;
-            data.Description = p.Description;
-            data.Price = p.Price;
-            data.StockQuantity = p.StockQuantity;
-            data.Category = p.Category;
-            db.SaveChanges();
-            return RedirectToAction("List");
+            if(ModelState.IsValid)
+            {
+                var data = db.Products.Find(p.ID);
+                db.Entry(data).CurrentValues.SetValues(p);
+                data.Name = p.Name;
+                data.Description = p.Description;
+                data.Price = p.Price;
+                data.StockQuantity = p.StockQuantity;
+                data.Category = p.Category;
+                db.SaveChanges();
+                return RedirectToAction("List");
+            }
+            return View(p);
+
         }
 
         [HttpGet]

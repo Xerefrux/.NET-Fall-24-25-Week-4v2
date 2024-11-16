@@ -6,6 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using Week4.DTOs;
 using Week4.EF;
+using Week4.CustomValidations;
 
 namespace Week4.Controllers
 {
@@ -97,16 +98,22 @@ namespace Week4.Controllers
 
         public ActionResult Edit(CustomerDTO c)
         {
-            var data = db.Customers.Find(c.ID);
-            db.Entry(data).CurrentValues.SetValues(c);
-            data.FirstName = c.FirstName;
-            data.LastName = c.LastName;
-            data.Email = c.Email;
-            data.Phone = c.Phone;
-            data.Address = c.Address;
-            data.DateJoined = c.DateJoined;
-            db.SaveChanges();
-            return RedirectToAction("List");
+            if(ModelState.IsValid)
+            {
+                var data = db.Customers.Find(c.ID);
+                db.Entry(data).CurrentValues.SetValues(c);
+                data.FirstName = c.FirstName;
+                data.LastName = c.LastName;
+                data.Email = c.Email;
+                data.Phone = c.Phone;
+                data.Address = c.Address;
+                data.DateJoined = c.DateJoined;
+                db.SaveChanges();
+                return RedirectToAction("List");
+            }
+
+            return View(c);
+            
         }
 
         [HttpGet]
